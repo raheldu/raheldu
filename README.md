@@ -4,7 +4,7 @@
 
 
 
-Pursuing Front End Development of THE LOVE OF CODE!!
+Pursuing Front End Development because of THE LOVE OF CODE!!
 
 
        Sass . CSS . HTML . Javascript
